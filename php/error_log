@@ -1,0 +1,11 @@
+[30-Apr-2020 05:14:14 America/New_York] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/arteofxc/public_html/php/mail.php on line 25
+[30-Apr-2020 05:44:32 America/New_York] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/arteofxc/public_html/php/mail.php on line 25
+[30-Apr-2020 05:44:50 America/New_York] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/arteofxc/public_html/php/mail.php on line 25
+[23-May-2020 02:37:50 America/New_York] PHP Notice:  Undefined index: nameEng in /home/arteofxc/public_html/php/mailEng.php on line 6
+[23-May-2020 02:37:50 America/New_York] PHP Notice:  Undefined index: emailEng in /home/arteofxc/public_html/php/mailEng.php on line 7
+[23-May-2020 02:37:50 America/New_York] PHP Notice:  Undefined index: phoneEng in /home/arteofxc/public_html/php/mailEng.php on line 8
+[23-May-2020 02:37:50 America/New_York] PHP Notice:  Undefined index: messageEng in /home/arteofxc/public_html/php/mailEng.php on line 9
+[23-May-2020 08:58:35 America/New_York] PHP Notice:  Undefined index: nameEng in /home/arteofxc/public_html/php/mailEng.php on line 6
+[23-May-2020 08:58:35 America/New_York] PHP Notice:  Undefined index: emailEng in /home/arteofxc/public_html/php/mailEng.php on line 7
+[23-May-2020 08:58:35 America/New_York] PHP Notice:  Undefined index: phoneEng in /home/arteofxc/public_html/php/mailEng.php on line 8
+[23-May-2020 08:58:35 America/New_York] PHP Notice:  Undefined index: messageEng in /home/arteofxc/public_html/php/mailEng.php on line 9
